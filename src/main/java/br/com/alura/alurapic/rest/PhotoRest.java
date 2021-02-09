@@ -50,7 +50,6 @@ public class PhotoRest {
 			@PathParam("userName") String userName,
 			@QueryParam("page") Integer page){
 		
-		
 		//System.out.println("token send by de application\ntoken: " + token );
 		
 		return Response
