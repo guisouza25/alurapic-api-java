@@ -1,8 +1,8 @@
 ## API - Alurapic
 
-Esta API foi desenvolvida utilizando o framework Quarkus, e é consumida por <a href = "https://github.com/guisouza25/alurapic">esta aplicação</a>, desenvolvida utilizando Angular.
+Esta RESTFul API foi desenvolvida utilizando o framework Quarkus, e é consumida por <a href = "https://github.com/guisouza25/alurapic">esta aplicação</a>, desenvolvida utilizando Angular.
 
-## Executando a api no modo dev
+## Executando a API no modo dev
 
 Basta executar o comando `mvn compile quarkus:dev`, e a API estará disponível em `http://localhost:8080`
 
