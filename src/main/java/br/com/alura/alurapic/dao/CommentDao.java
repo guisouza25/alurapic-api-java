@@ -11,7 +11,6 @@ import org.hibernate.Session;
 
 import br.com.alura.alurapic.model.Comment;
 import br.com.alura.alurapic.model.Photo;
-import br.com.alura.alurapic.model.User;
 
 @RequestScoped
 public class CommentDao {
