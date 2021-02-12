@@ -1,15 +1,10 @@
-# api-alurapic-java project
+## API - Alurapic
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
+Esta RESTFul API foi desenvolvida utilizando o framework Quarkus, e é consumida por <a href = "https://github.com/guisouza25/alurapic">esta aplicação</a>, desenvolvida utilizando Angular.
 
-If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
+## Executando a API no modo dev
 
-## Running the application in dev mode
-
-You can run your application in dev mode that enables live coding using:
-```shell script
-./mvnw compile quarkus:dev
-```
+Basta executar o comando `mvn compile quarkus:dev`, e a API estará disponível em `http://localhost:8080`
 
 ## Packaging and running the application
 
