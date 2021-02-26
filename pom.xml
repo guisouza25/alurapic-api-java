@@ -108,7 +108,6 @@
 		</repository>
 	</repositories>
 	<build>
-	<pluginManagement>
 		<plugins>
 			<plugin>
 				<groupId>io.quarkus</groupId>
@@ -140,7 +139,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
-	</pluginManagement>
 	</build>
 	<profiles>
 		<profile>
